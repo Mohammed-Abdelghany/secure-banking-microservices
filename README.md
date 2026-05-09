@@ -70,7 +70,7 @@ The project follows a distributed microservices architecture.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/secure-banking-microservices.git
+git clone https://github.com/Mohammed-Abdelghany/secure-banking-microservices.git
 ```
 
 ### Run Services
@@ -108,5 +108,5 @@ This project was built while learning and practicing:
 
 ## 👨‍💻 Author
 
-Mohamed AbdelGhany  
+Muhammed Abd El-Ghany 
 Junior Backend Developer | Java & Spring Boot Enthusiast
